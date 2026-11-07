@@ -5,7 +5,7 @@ A responsive, browser-based 12-week Data Engineering preparation tracker, built 
 ## Features
 
 - Complete Monday–Friday plan for 12 weeks (60 days, 240 time-block checkboxes)
-- Daily 8–10 PM study timetable: 45 minutes Udemy, 25 minutes reading, 40 minutes practice, 10 minutes review
+- Daily 11:30 PM–1:30 AM (next day) study timetable: 45 minutes Udemy, 25 minutes reading, 40 minutes practice, 10 minutes review
 - Detailed reading and coding assignments for each day
 - Course progress slider and optional Udemy link
 - Project milestone checklist and project name
